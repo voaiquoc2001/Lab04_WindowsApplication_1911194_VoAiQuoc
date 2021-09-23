@@ -1,0 +1,10 @@
+D:\Lập trình cơ sở dữ liệu\Lab04windown application\1911194_voaiquoc_lab04\1911194_voaiquoc_lab04\bin\Debug\1911194_voaiquoc_lab04.exe.config
+D:\Lập trình cơ sở dữ liệu\Lab04windown application\1911194_voaiquoc_lab04\1911194_voaiquoc_lab04\bin\Debug\1911194_voaiquoc_lab04.exe
+D:\Lập trình cơ sở dữ liệu\Lab04windown application\1911194_voaiquoc_lab04\1911194_voaiquoc_lab04\bin\Debug\1911194_voaiquoc_lab04.pdb
+D:\Lập trình cơ sở dữ liệu\Lab04windown application\1911194_voaiquoc_lab04\1911194_voaiquoc_lab04\obj\Debug\1911194_voaiquoc_lab04.csproj.AssemblyReference.cache
+D:\Lập trình cơ sở dữ liệu\Lab04windown application\1911194_voaiquoc_lab04\1911194_voaiquoc_lab04\obj\Debug\_1911194_voaiquoc_lab04.Form1.resources
+D:\Lập trình cơ sở dữ liệu\Lab04windown application\1911194_voaiquoc_lab04\1911194_voaiquoc_lab04\obj\Debug\_1911194_voaiquoc_lab04.Properties.Resources.resources
+D:\Lập trình cơ sở dữ liệu\Lab04windown application\1911194_voaiquoc_lab04\1911194_voaiquoc_lab04\obj\Debug\1911194_voaiquoc_lab04.csproj.GenerateResource.cache
+D:\Lập trình cơ sở dữ liệu\Lab04windown application\1911194_voaiquoc_lab04\1911194_voaiquoc_lab04\obj\Debug\1911194_voaiquoc_lab04.csproj.CoreCompileInputs.cache
+D:\Lập trình cơ sở dữ liệu\Lab04windown application\1911194_voaiquoc_lab04\1911194_voaiquoc_lab04\obj\Debug\1911194_voaiquoc_lab04.exe
+D:\Lập trình cơ sở dữ liệu\Lab04windown application\1911194_voaiquoc_lab04\1911194_voaiquoc_lab04\obj\Debug\1911194_voaiquoc_lab04.pdb
